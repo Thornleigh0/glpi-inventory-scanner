@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>Inventory Scanner</name>
+    <version>1.0.0</version>
+    <author>Your Name</author>
+    <license>GPLv2+</license>
+    <homepage>https://github.com/Thornleigh0/glpi-inventory-scanner</homepage>
+    <minGlpiVersion>9.5</minGlpiVersion>
+    <maxGlpiVersion>10.0</maxGlpiVersion>
+    <info>Plugin for scanning inventory items into GLPI using UPC lookups.</info>
+    <autoload>hook.php</autoload>
+    <install>setup.php</install>
+</plugin>
